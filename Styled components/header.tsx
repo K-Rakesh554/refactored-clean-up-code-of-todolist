@@ -48,6 +48,7 @@ position:absolute;
 left:85%;
 top:11%;
 display: inline;
+color:white;
 font-size: 1em;
 margin: 1em;
 padding: 0.25em 1em;
